@@ -1,5 +1,5 @@
 
-## Easy Invoice
+## Invoice Karo
 
 It is an open source application to create and manage invoices.
 
